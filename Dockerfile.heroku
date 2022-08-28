@@ -1,1 +1,1 @@
-FROM brhiggins/discord-activity-monitor:latest
+FROM udck/discord-activity-monitor:latest
