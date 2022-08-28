@@ -1,1 +1,1 @@
-FROM udck/Discord-Activity-Monitor:latest
+FROM udck/discord-activity-monitor:latest
